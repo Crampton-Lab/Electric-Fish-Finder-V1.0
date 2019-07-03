@@ -1,4 +1,4 @@
-Electric-Fish-Finder-V1.0
+Electric-Fish-Finder-V1.0hello
 
 A portable bioamplifier for electric fish research: schematic and printed circuit board specifications and other resources
 
