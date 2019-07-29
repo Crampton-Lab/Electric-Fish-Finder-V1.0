@@ -13,7 +13,7 @@ United States of America
 Michael Haag: mhaag@ucf.knights.edu
 Jeffrey Lambert: jeffl@k1vzx.com
 Joseph Waddell: jcwaddell@gmail.com
-William Crampton: crampton@ucf.edu
+William Crampton: crampton@ucf.edu [corresponding author]
 
 This repository contains three sets of files in .zip folders  
 
