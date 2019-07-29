@@ -63,6 +63,4 @@ This alternative design permits the user to remove and add resistors to vary the
 Contains: 
 
 Component list for PCB assembly, including bio-amplifier chassis and probe assembly
-Design and construction notes
-Operation manual
 Publications describing earlier versions
