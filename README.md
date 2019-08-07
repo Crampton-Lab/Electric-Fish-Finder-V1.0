@@ -57,11 +57,13 @@ Key to the PCB schematic and circuit schematic, with important notes.
 Contains the same set of files as in eFish_V1.0.zip for an alternative version of the circuit board in which resistor R1 is replaced with a jumper (J1) for resistor insertion. 
 This alternative design permits the user to remove and add resistors to vary the gain of the bio-amplifier. This may be helpful in special circumsances: e.g. use in water with very high conductivity.
 
+IMPORANT NOTE FOR PCB FABRICATION: Board dimension is 64 x 47 mm
 
 3. eFishV_1.0_Resources.zip
 
 Contains: 
 
-Component list for PCB assembly, including bio-amplifier chassis and probe assembly
+Component list for PCB assembly, including bio-amplifier chassis and probe assembly.
 
 Publications describing earlier versions
+
