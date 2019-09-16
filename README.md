@@ -21,17 +21,17 @@ IMPORTANT NOTE FOR PCB FABRICATION: Board dimension is 64 x 47 mm
 
 This repository contains three sets of files in .zip folders  
 
-1. eFish_V1.0.zip
+1. eFish-Finder-V1.0A-2019-09-09.zip
 
 Contains:
 
-1.1. eFish_V1.0_PCB_Picture.PNG 
+1.1. eFish-Finder-V1.0A-2019-09-09-PCB.PNG 
 (PCB schematic - created in Eagle)
 
-1.2. eFish_V1.0_Schematic_Picture.PNG
+1.2. eFish-Finder-V1.0A-2019-09-09-schematic.PNG 
 (Circuit schematic - created in Eagle)
 
-1.3. eFish_Finder_V1.0_Eagle_files.zip
+1.3. eFish-Finder-V1.0A-Eagle-files.zip
 
 (contains two files that can be opened and Edited in Eagle: eFish_Finder_V1.0.brd, eFish_Finder_V1.0.brd)
 
@@ -39,7 +39,7 @@ Download Eagle here if required:
 
 https://www.autodesk.com/products/eagle/free-download
 
-1.4. eFish_Finder_V1.0_Gerber_files.zip
+1.4. eFish-Finder-V1.0A-Gerber-files.zip
 
 (.zip compressed folder containing 8 files:
 	eFish_Finder_V1.0.cmp
@@ -52,17 +52,19 @@ https://www.autodesk.com/products/eagle/free-download
 	eFish_Finder_V1.0.sts
 This zip folder and its contents is required by PCB manufacturing companies)
 
-1.5. README eFish_Finder_V1.0
+1.5. README-eFish-Finder-V1.0A-2019-09-09
 
 Key to the PCB schematic and circuit schematic, with important notes.
 
-2. eFish_V1.0_B.zip
+2. eFish-Finder-V1.0B-2019-09-09.zip
 
-Contains the same set of files as in eFish_V1.0.zip for an alternative version of the circuit board in which resistor R1 is replaced with a jumper (J1) for resistor insertion. 
+Contains the same set of files as in eFish-Finder-V1.0B-2019-09-09.zip for an alternative version of the circuit board in which resistor R1 is replaced with a jumper (J1) for resistor insertion. 
 This alternative design permits the user to remove and add resistors to vary the gain of the bio-amplifier. This may be helpful in special circumsances: e.g. use in water with very high conductivity.
 
 
-3. eFishV_1.0_Resources.zip
+3. eFish-Finder-V1.0-Resources.zip
 
-Contains: Component list for PCB assembly, including bio-amplifier chassis and probe assembly
+Contains: 
+
+Component list for PCB assembly, including bio-amplifier chassis and probe assembly
 Publications describing earlier versions
